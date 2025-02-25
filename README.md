@@ -1,4 +1,6 @@
-# Data Engineering Guide: NumPy, Pandas, and Visualization
+# Data Engineering Guide: NumPy, Pandas , matplotlib , seaborn , Visualization and Preprocessing
+
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 This guide covers essential concepts and practical implementations of **NumPy**, **Pandas**, and **Data Visualization** using **Matplotlib** and **Seaborn**—core libraries for numerical computing, data manipulation, and visualization in **Python**.
 

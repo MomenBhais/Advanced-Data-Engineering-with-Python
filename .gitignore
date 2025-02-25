@@ -1,0 +1,29 @@
+
+---
+
+### 📌 `.gitignore`
+```plaintext
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment and dependency files
+env/
+venv/
+*.env
+
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/

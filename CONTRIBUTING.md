@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this project! Here’s a quick gu
 2. **Clone the Project to Your Local Machine**:
    - Use the following command to clone the project:
      ```bash
-     git clone git@github.com:MomenBhais/Advanced-Data-Engineering-with-Python.git
+     git clone https://github.com/MomenBhais/Advanced-Python-for-Data-Engineering
      ```
    
 

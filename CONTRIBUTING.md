@@ -17,7 +17,7 @@ Thank you for your interest in contributing to this project! Here’s a quick gu
 3. **Create a New Branch**:
    - Navigate to the cloned folder:
      ```bash
-     cd Python-Mastery
+     cd Advanced-Python-for-Data-Engineering
      ```
    - Create a new branch for your changes:
      ```bash
